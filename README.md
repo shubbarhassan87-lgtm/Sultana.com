@@ -1,2 +1,0 @@
-# Sultana.com
-index.html
